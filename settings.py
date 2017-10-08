@@ -1,0 +1,3 @@
+FILENAME = "data.txt"
+CHUNK_SIZE = 1000
+STEP = 0
